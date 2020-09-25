@@ -1,2 +1,2 @@
-non-maven project created using command prompt in windows. 
-mvn archetype:generate command was used to create this non-mavenproject
+Non-maven project created using command line interface. 
+mvn archetype:generate command was used to create this non-maven project.
